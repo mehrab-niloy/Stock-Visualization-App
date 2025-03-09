@@ -20,8 +20,6 @@
 ## Backend-Frontend Integration
 Initially, I faced issues connecting the React frontend to the Flask backend due to CORS (Cross-Origin Resource Sharing) errors. I resolved this by enabling CORS in the Flask app.
 
-## Dynamic Chart Updates
-Updating the line chart dynamically based on the selected trade_code was challenging. I learned how to use React state and props effectively to achieve this.
 
 ## Database Setup
 Setting up and connecting to SQL Server was tricky, especially handling data types and ensuring proper connection strings. I used pyodbc to manage the connection.
